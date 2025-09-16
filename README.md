@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Automation+Artist..;Padel+bouncer..;IT-SUpporter)](https://git.io/typing-svg)
 
 
-...I see my head smoke so yours can be free of worries
+...See my head smoke so yours can be free of worries
 
-I work as a IT-SUpporter and I love and breath **automations**, gathering Data **remote**, fixing issues **handless** and reworking old  **PowerShell**. If it takes too long, I make it faster.
+I work as a IT-Supporter and I love **automation**, gathering Data **remote**, fixing issues **hands off** and reworking old  **PowerShell**. If it takes too long, I make it faster.
 
 ## 🖥️ My Tech
 
