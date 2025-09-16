@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I am Sean Kessi
 
-<!--
-**Asterisk333/Asterisk333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Automation+Artist..;Padel+bouncer..;IT-SUpporter)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+...I see my head smoke so yours can be free of worries
+
+I work as a IT-SUpporter and I love and breath **automations**, gathering Data **remote**, fixing issues **handless** and reworking old  **PowerShell**. If it takes too long, I make it faster.
+
+## 🖥️ My Tech
+
+- PowerShell
+- Bash
+- Python
+- Web-Dashboards
+
+## Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/sean-kessi-b48881263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sean-kessi-b48881263" height="30" width="40" /></a>
+</p>
