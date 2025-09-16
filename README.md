@@ -1,6 +1,6 @@
 # Hi, I am Sean Kessi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Automation+Artist..;Padel+bouncer..;IT-SUpporter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Automation+Artist..;Padel+bouncer..;IT-Supporter)](https://git.io/typing-svg)
 
 
 ...See my head smoke so yours can be free of worries
